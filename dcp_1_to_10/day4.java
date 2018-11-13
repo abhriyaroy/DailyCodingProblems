@@ -1,7 +1,6 @@
-package dcm;
+package dcm.dcp_1_to_10;
 
 import java.util.HashMap;
-import java.util.TreeMap;
 
 public class day4 {
 

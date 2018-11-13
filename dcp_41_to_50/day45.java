@@ -1,4 +1,4 @@
-package dcm;
+package dcm.dcp_41_to_50;
 
 
 import java.util.Random;

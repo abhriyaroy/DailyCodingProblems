@@ -1,4 +1,4 @@
-package dcm;
+package dcm.dcp_1_to_10;
 
 public class day3 {
 
